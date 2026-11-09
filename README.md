@@ -24,18 +24,16 @@ Short practice notebooks, one topic each:
 - [Deep neural networks](exercise-deep-neural-networks.ipynb)
 - [Dropout and batch normalization](exercise-dropout-and-batch-normalization.ipynb)
 - [Machine learning competitions](exercise-machine-learning-competitions.ipynb)
+- [Single neuron — Intro to Deep Learning exercise](exercise-single-neuron.ipynb)
 
 ## Projects
 
 - [Semester project — video game sales prediction](semester-project.ipynb) — also in its own repo: [video-game-sales-prediction](https://github.com/Saxon-account/video-game-sales-prediction)
 - [Titanic data exploration](Titanic_data_exploration.ipynb)
 - [Handwriting recognition — MNIST digits with a CNN](handwriting_recognition/mnist_digit_recognition_cnn_Meznarich.ipynb)
+- [Neural network — MNIST with TensorFlow/Keras](neural-network-mnist.ipynb)
 - [Graph algorithms](<graph_algorithms_(1).ipynb>)
 - [Road network analysis](road_network_analysis_1_1.ipynb)
 - [Number predictor](Number_Predictor.ipynb)
 - [Python AI part 1](python_ai_part1.ipynb)
 - [Python AI part 2](Saxon_python_ai_part2.ipynb)
-
-## Notes
-
-- Two unnamed notebooks: `Untitled0.ipynb`, `notebookfaa3954791.ipynb`
