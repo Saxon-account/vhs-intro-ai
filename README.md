@@ -38,5 +38,4 @@ Short practice notebooks, one topic each:
 
 ## Notes
 
-- [MyNotes.md](MyNotes.md) — class notes
 - Two unnamed notebooks: `Untitled0.ipynb`, `notebookfaa3954791.ipynb`
